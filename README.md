@@ -1,7 +1,13 @@
 # News image — Monday 23 November 2026
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/junyisolri-eng/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/junyisolri-eng/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 Entry for the make.fun bounty `news-image-20261123`:
 "Sum up 23 November's world news in one image."
+
+See the bounty: https://make.fun/bounty/news-image-20261123
 
 ## What it is
 
@@ -65,3 +71,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 - `build.py` — the poster builder (build-time only)
 - `assets/` — the hero illustration the pictograms are cropped from
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
